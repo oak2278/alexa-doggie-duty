@@ -1,28 +1,50 @@
 {
-  "intents": [
-    {
-      "intent": "LastChanged"
-    },
-    {
-      "intent": "DiaperNumbersDay"  
-    },
-    {
-      "intent": "DiaperNumbersWeek"  
-    },
-    {
-      "intent": "DiaperNumbersDayMonth"  
-    },
-    {
-      "intent": "Change"
-    },
-    {
-      "intent": "AMAZON.StopIntent"
-    },
-    {
-      "intent": "AMAZON.CancelIntent"
-    },
-    {
-      "intent": "AMAZON.HelpIntent"
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "doggie duty",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Feed",
+                    "slots": [],
+                    "samples": [
+                        "I fed the dogs",
+                        "I'm feeding the dogs",
+                        "Feed the Dogs"
+                    ]
+                },
+                {
+                    "name": "PetNames",
+                    "slots": [],
+                    "samples": [
+                        "what are my dogs names",
+                        "what are my pets names",
+                        "How many pets do I have registered"
+                    ]
+                },
+                {
+                    "name": "GoOutside",
+                    "slots": [],
+                    "samples": [
+                        "take the pets outside",
+                        "take the dogs outside",
+                        "take the pets out",
+                        "take the dogs out"
+                    ]
+                }
+            ],
+            "types": []
+        }
     }
-  ]
 }

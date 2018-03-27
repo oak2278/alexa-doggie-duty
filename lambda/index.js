@@ -9,11 +9,11 @@ exports.handler = function(event, context, callback){
 var handlers = {
 
   'LaunchRequest': function () {
-    this.emit(':ask', 'Welcome to Diaper Duty!', 'Try saying I have Changed the Baby');
+    this.emit(':ask', 'Welcome to Doggie Duty!', 'Try saying I have fed the dogs');
   },
   
-  'Change': function () {
-    this.emit(':tell', 'Ok, I have recorded that the baby has been changed!' )
+  'Feed': function () {
+    this.emit(':tell', 'Ok, I have recorded that the dogs have been fed!' )
   }
 
 };
