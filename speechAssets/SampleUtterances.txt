@@ -1,0 +1,25 @@
+Change change
+Change changed
+Change changing
+
+DiaperNumbersDay how many diapers have we used today
+DiaperNumbersDay how many diapers have we changed today
+DiaperNumbersDay how many diapers have we gone through today
+DiaperNumbersDay how many times has the baby been changed today
+
+DiaperNumbersDay how many diapers have we used this week
+DiaperNumbersDay how many diapers have we changed this week
+DiaperNumbersDay how many diapers have we gone through this week
+DiaperNumbersDay how many times has the baby been changed this week
+
+DiaperNumbersDay how many diapers have we used this month
+DiaperNumbersDay how many diapers have we changed this month
+DiaperNumbersDay how many diapers have we gone through this month
+DiaperNumbersDay how many times has the baby been changed this month
+
+LastChanged when is the last time the baby was changed
+LastChanged when is the last time the babys diaper was changed
+LastChanged when is the last time the diaper was changed
+LastChanged when was the last time the baby was changed
+LastChanged when was the last time the babys diaper was changed
+LastChanged when was the last time the diaper was changed

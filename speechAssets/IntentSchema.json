@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "LastChanged"
+    },
+    {
+      "intent": "DiaperNumbersDay"  
+    },
+    {
+      "intent": "DiaperNumbersWeek"  
+    },
+    {
+      "intent": "DiaperNumbersDayMonth"  
+    },
+    {
+      "intent": "Change"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
